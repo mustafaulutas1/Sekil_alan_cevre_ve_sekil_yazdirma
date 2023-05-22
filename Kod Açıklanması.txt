@@ -1,0 +1,9 @@
+Şekil, Dikdörtgen, Üçgen ve Çember sınıfları oluşturacaktır. Sınıfların alanını, 
+çevresini hesaplayacak ve çizimini sağlayacak (Çember için gerekli değil) metotlar 
+yazıp, bu sonuçların (alan ve çevre yeterli) class içinde __str__ metodu ile yazılmasını 
+sağlayınız. Değişkenler ve abstract sınıfı oluşturma kısmı size bırakılmıştır. 
+Değişkenler private olup, getter/setter metotlar tanımlanmalıdır.
+o Her bir sınıf ayrı bir .py dosyası içinde olmalıdır.
+o Gerekli sınıflar için Initializer metodu oluşturmanız gereklidir.
+o Abstract class mantığı ile çözüm zorunludur.
+o Main.py dosyası içinde her sınıf için örnek nesne oluşturup, çıktılar gösterilmelidir.
